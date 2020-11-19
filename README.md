@@ -1,4 +1,4 @@
-# pequeno-sonhador
+# pequeno-sonhador 1.0
 ## Summary
 notepad-style, notes are organized responsively using <code> collumn-count </code>.
 
